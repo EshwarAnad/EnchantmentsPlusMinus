@@ -7,7 +7,7 @@ messages:
     invalidplayer: "&cCannot find specified player."
     reloadconfig: "&aReloaded config!"
     openenchantsgui: "&2Opening enchants GUI..."
-    invaliditem: "&cYou must hold a tool or armor to use this command."
+    invaliditem: "&cYou must hold a tool or armour to use this command."
     unspecifiedplayer: "&cYou must specify a player."
     tokenbalance: "&aTokens: %s"
     insufficienttokens: "&cYou do not have enough tokens to buy this."
